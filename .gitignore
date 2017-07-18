@@ -1,0 +1,11 @@
+# Files with the following extensions will be ignored
+# .DS_Store are Mac system files
+
+*.DS_Store
+
+*.sublime-project
+*.sublime-workspace
+
+node_modules/
+
+.vscode/
