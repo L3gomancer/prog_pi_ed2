@@ -1,6 +1,6 @@
 # prog_pi_ed2
 
-**If you are looking for the code for the FIRST EDITION of this book, please see the separeate repository here:  https://github.com/simonmonk/monk_raspberrypi/tree/master/edition_1**
+**If you are looking for the code for the FIRST EDITION of this book, please see the separate repository here:  https://github.com/simonmonk/monk_raspberrypi/tree/master/edition_1**
 
 # Second Edition. Programming Raspberry Pi
 
